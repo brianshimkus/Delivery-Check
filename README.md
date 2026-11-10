@@ -4,7 +4,7 @@
 
 Delivery Check is a planned AI automation demo by Insolla. It compares promises recorded in Google Sheets with explicitly linked Asana tasks, surfaces discrepancies, and prepares a source-linked Google Docs report for a manager to review.
 
-![Delivery Check demo concept: fictional promised Friday 13 and planned Tuesday 17 dates, with a human-review marker and Insolla branding.](docs/assets/delivery-check.jpg)
+![Delivery Check demo concept: fictional promised Friday 13 and planned Tuesday 17 dates, with a human-review marker and Insolla branding.](docs/assets/delivery-check.png)
 
 *Concept graphic with fictional dates. It illustrates the proposed demo; it is not a screenshot of a working integration.*
 
